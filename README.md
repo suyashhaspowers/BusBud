@@ -7,5 +7,8 @@ SMS chatbot created with the Twilio API that sends the user bus route directions
 3. Using Ngrok, get a forwarding link for the server. (ex. ./ngrok http 5000) 
 4. Change the Webhook URL on the Twillio Dashboard.
 
+### Test Gif
+![Screenshot](test_one.gif)
+
 ### Test Video
 Open BusBudTest.mp4 to view the test footage of BusBud.
