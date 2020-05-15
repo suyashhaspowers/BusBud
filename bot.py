@@ -9,7 +9,7 @@ from urllib import request, error
 
 app = Flask(__name__)
 
-BING_MAPS_API_KEY = '********************'
+BING_MAPS_API_KEY = 'AuAOUjlm2IJ09Ytc-cfQqjAXya4as2lPScgwaexKFv9ZDTorjj0Bvio6YlsZ-qLu'
 
 @app.route('/bot', methods=['POST'])
 def bot():
